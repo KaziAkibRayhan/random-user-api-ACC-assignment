@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "gender": "male",
+    "name": "Jon Doe",
+    "contact": "01885765453",
+    "address": "Khilgaon, Dhaka",
+    "photoUrl": "coming soon"
+  },
+  {
+    "Id": 2,
+    "gender": "female",
+    "name": "Natasha",
+    "contact": "01775765453",
+    "address": "Tejgaon, Dhaka",
+    "photoUrl": "coming soon"
+  }
+]
